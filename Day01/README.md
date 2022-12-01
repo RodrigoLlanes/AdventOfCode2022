@@ -11,7 +11,7 @@ Primer día, como siempre, de calentamiento. Para el problema de hoy tendremos
 que sumar los elementos de cada sublista, para obtener el total de calorías que
 carga cada elfo y a partir de esta lista calcular el máximo.
 
-``python3
+```python3
 def load_input() -> list:
     inp = [0]
     for line in open('input', 'r').readlines():
@@ -30,7 +30,7 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-``
+```
 
 Para la carga de los datos simplemente iteramos en las lineas del fichero de 
 entrada, si esta está vacía, añadimos un nuevo elemento a la lista de resultados, 
@@ -46,7 +46,7 @@ for line in open('input', 'r').readlines():
         inp[-1] += int(line)
 ```
 
-A partir de la lista de calorías totales que carga cada elfo (`{data}`) obtenida
+A partir de la lista de calorías totales que carga cada elfo (`data`) obtenida
 anteriormente, calculamos el número máximo.
 
 ```python3
@@ -63,7 +63,7 @@ Para ello ordenamos la lista y sumamos los 3 últimos (si estás ordenando la li
 de manera ascendente).
 
 
-``python3
+```python3
 def load_input() -> list:
     inp = [0]
     for line in open('input', 'r').readlines():
@@ -82,7 +82,7 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-``
+```
 
 Como hemos comentado anteriormente la carga de datos es identica a la de la
 [Parte 1](#parte-1), así que nos centraremos en el cálculo de la solución.
@@ -90,7 +90,7 @@ Como hemos comentado anteriormente la carga de datos es identica a la de la
 Simplemente, ordenamos la lista de calorías, cogemos los tres últimos elementos
 y los sumamos.
 
-``python3
+```python3
 print(sum(sorted(data)[-3:]))
-``
+```
 
