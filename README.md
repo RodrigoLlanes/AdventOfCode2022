@@ -9,4 +9,5 @@ Mis soluciones para [AdventOfCode2022](https://adventofcode.com/2022)
 | 4   | [Camp Cleanup](https://adventofcode.com/2022/day/4)             | [Day04](./Day04/README.md) |
 | 5   | [Supply Stacks](https://adventofcode.com/2022/day/5)            | [Day05](./Day05/README.md) |
 | 6   | [Tuning Trouble](https://adventofcode.com/2022/day/6)           | [Day06](./Day06/README.md) |
+| 7   | [No Space Left On Device](https://adventofcode.com/2022/day/7)  | [Day07](./Day07/README.md) |
 
