@@ -13,4 +13,9 @@ Mis soluciones para [AdventOfCode2022](https://adventofcode.com/2022)
 | 8   | [Treetop Tree House](https://adventofcode.com/2022/day/8)       | [Day08](./Day08/README.md) |
 | 9   | [Rope Bridge](https://adventofcode.com/2022/day/9)              | [Day09](./Day09/README.md) |
 | 10  | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)        | [Day10](./Day10/README.md) |
+| 11  | [Monkey in the Middle](https://adventofcode.com/2022/day/11)    | [Day11](./Day11/README.md) |
+| 12  | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [Day12](./Day12/README.md) |
+| 13  | [Distress Signal](https://adventofcode.com/2022/day/13)         | [Day13](./Day13/README.md) |
+| 14  | [Regolith Reservoir](https://adventofcode.com/2022/day/14)      | [Day14](./Day14/README.md) |
+| 15  | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15)   | [Day15](./Day15/README.md) |
 
